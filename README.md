@@ -1,14 +1,14 @@
 ﻿# Weather MCP Server
 
-A .NET 8 MCP server that provides real weather data using the OpenWeatherMap API.  
+ASP.NET 8 MCP server that provides real weather data using the OpenWeatherMap API.  
 It is designed to integrate with AI assistants (Claude, Cursor, FastMCP).
 
 ---
 
 # Features
-✅ Get current weather (`GetCurrentWeather`)  
-✅ 3-day weather forecast (`GetWeatherForecast`)  
-✅ Weather alerts (bonus: `GetWeatherAlerts`)
+Get current weather (`GetCurrentWeather`)  
+3-day weather forecast (`GetWeatherForecast`)  
+Weather alerts (bonus: `GetWeatherAlerts`)
 
 ---
 
